@@ -1,4 +1,4 @@
-package com.zhihaofans.androidbox.kotlinEx
+package com.zhihaofans.Android_Kotlin_Utils.kotlinEx
 
 /**
  * Created by zhihaofans on 2018/11/4.
